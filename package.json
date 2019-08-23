@@ -13,8 +13,10 @@
     "gen": "plop"
   },
   "devDependencies": {
+    "@babel/polyfill": "7.4.4",
     "just-stack-single-lib": "^1.0.0",
     "just-scripts": "^0.27.0",
-    "beachball": "^1.11.5"
+    "beachball": "^1.11.5",
+    "puppeteer": "^1.19.0"
   }
 }
